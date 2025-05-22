@@ -9,6 +9,7 @@
         "filament/filament": "^3.3",
         "flowframe/laravel-trend": "^0.4.0",
         "laravel/framework": "^11.0",
+        "laravel/sanctum": "^4.0",
         "laravel/tinker": "^2.9",
         "livewire/livewire": "3.5.12",
         "midtrans/midtrans-php": "2.6.1"
